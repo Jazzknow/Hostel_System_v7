@@ -20,7 +20,7 @@ include 'php/connection.php';
                     <a class="active" href="#">Home</a>
                 </div>
             </div>
-
+            <div></div>
             <!-------
             <div class="box-info-container">
                 <div class="datetime-display">
